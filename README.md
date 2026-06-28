@@ -79,17 +79,17 @@ These challenges helped improve understanding of:
 
 Project Structure
 
-- john-portfolio/
+john-portfolio/
 - index.html
 - style.css
 - script.js
 - profile.jpg
 - README.md
 
---Author--
+Author
 - John Marinie Fang
 - Email: jmfang23100403@student.dmmmsu.edu.ph
 - GitHub: github.com/jmfang0721
 
---License--
+License
 - This project is for personal/educational use.
