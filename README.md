@@ -78,16 +78,16 @@ These challenges helped improve understanding of:
 
 john-portfolio/
 │
-├── -index.html
-├── -style.css
-├── -script.js
-├── -profile.jpg
-└── -README.md
+├── - index.html
+├── - style.css
+├── - script.js
+├── - profile.jpg
+└── - README.md
 
 --Author--
--John Marinie Fang
--Email: jmfang23100403@student.dmmmsu.edu.ph
--GitHub: github.com/jmfang0721
+- John Marinie Fang
+- Email: jmfang23100403@student.dmmmsu.edu.ph
+- GitHub: github.com/jmfang0721
 
 --License--
--This project is for personal/educational use.
+- This project is for personal/educational use.
