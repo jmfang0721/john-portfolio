@@ -26,6 +26,9 @@ JavaScript
 Font Awesome Icons
 Devicon (technology icons)
 
+--AI Agent Used--
+- ChatGPT
+
 --Contact Form Feature--
 
 The contact form uses EmailJS to send messages directly without a backend server.
@@ -77,12 +80,11 @@ These challenges helped improve understanding of:
 ---Project Structure--
 
 john-portfolio/
-│
-├── - index.html
-├── - style.css
-├── - script.js
-├── - profile.jpg
-└── - README.md
+- index.html
+- style.css
+- script.js
+- profile.jpg
+- README.md
 
 --Author--
 - John Marinie Fang
