@@ -1,37 +1,37 @@
 John’s Portfolio
 
-John’s Portfolio is a responsive personal website that showcases my profile, skills, projects, education, and contact information. 
+- John’s Portfolio is a responsive personal website that showcases my profile, skills, projects, education, and contact information. 
 It is designed with a modern dark theme and smooth animations to provide a clean and professional online presence.
 
 
 Live Demo
-https://jmfang0721.github.io/john-portfolio/
+- https://jmfang0721.github.io/john-portfolio/
 
---Features--
-Home section with profile introduction
-About Me section
-My Skills section
-Projects section
-Education section
-Contact Me section (Removed email, number, facebook and github. Added contact form)
-Fully responsive design 
-Dark modern UI theme
-Scroll reveal animations
-Mobile navigation menu
+Features
+- Home section with profile introduction
+- About Me section
+- My Skills section
+- Projects section
+- Education section
+- Contact Me section (Removed email, number, facebook and github. Added contact form)
+- Fully responsive design 
+- Dark modern UI theme
+- Scroll reveal animations
+- Mobile navigation menu
 
---Tech Stack--
-HTML5
-CSS3
-JavaScript
-Font Awesome Icons
-Devicon (technology icons)
+Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome Icons
+- Devicon (technology icons)
 
---AI Agent Used--
+AI Agent Used
 - ChatGPT
 
---Contact Form Feature--
+Contact Form Feature
 
-The contact form uses EmailJS to send messages directly without a backend server.
+- The contact form uses EmailJS to send messages directly without a backend server.
 
 Form Fields:
 - Name
@@ -43,9 +43,9 @@ EmailJS Setup:
 - Template ID: `template_6el0iwl`
 - Public Key: `f92baAL1bAJxcxxnj`
 
---Improvements Made During Development--
+Improvements Made During Development
 
-During development and debugging, the following improvements and fixes were implemented:
+- During development and debugging, the following improvements and fixes were implemented:
 
 Git & Deployment Fixes
 - Resolved multiple Git merge and rebase conflicts
@@ -65,7 +65,7 @@ UI/UX Enhancements
 - Enhanced mobile navigation toggle behavior
 - Organized sections for better readability and structure
 
---Challenges Faced--
+Challenges Faced
 
 - Git rebase and merge conflicts during updates
 - Synchronizing local repository with GitHub
@@ -77,9 +77,9 @@ These challenges helped improve understanding of:
 - Debugging JavaScript applications
 - Frontend deployment practices
 
----Project Structure--
+Project Structure
 
-john-portfolio/
+- john-portfolio/
 - index.html
 - style.css
 - script.js
